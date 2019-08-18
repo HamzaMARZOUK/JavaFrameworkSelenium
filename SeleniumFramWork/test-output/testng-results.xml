@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12916" started-at="2019-08-16T16:59:38Z" finished-at="2019-08-16T16:59:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12916" started-at="2019-08-16T16:59:38Z" finished-at="2019-08-16T16:59:51Z">
+      <class name="autoIT_with_Selenium.RunAutoITwithSelenium">
+        <test-method status="PASS" signature="Test()[pri:0, instance:autoIT_with_Selenium.RunAutoITwithSelenium@39c0f4a]" name="Test" duration-ms="12860" started-at="2019-08-16T16:59:38Z" finished-at="2019-08-16T16:59:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+      </class> <!-- autoIT_with_Selenium.RunAutoITwithSelenium -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
